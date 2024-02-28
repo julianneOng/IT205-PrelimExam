@@ -1,0 +1,50 @@
+body{
+    margin: 10;
+    padding: 10;
+    background: url(profile/bg.jpg) no-repeat;
+    background-size: cover;
+    background-color: lightblue;
+  }
+  h1 {
+    color: salmon;
+    font-family: verdana;
+    font-size: 200%;
+  }
+  p {
+    color: slateblue;
+    font-family: courier;
+    font-size: 160%;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: powderblue;
+    outline: #4CAF50 solid 10px;
+  }
+  ol {
+    color: navy;
+    font-family: courier;
+    font-size: 160%;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: powderblue;
+    outline: #4CAF50 solid 10px;
+  }
+  h2{
+    color: indigo;
+    font-family: verdana;
+    font-size: 200%;
+  }
+  li {
+    color: navy;
+    font-family: courier;
+    font-size: 160%;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: powderblue;
+    outline: #4CAF50 solid 10px;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
